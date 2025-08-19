@@ -15,7 +15,7 @@
 <h2 align="center" style="font-family: 'Roboto', sans-serif; color: #0d1117;">Desenvolvedor Web | Entusiasta em TI | Curioso por natureza 💡</h2>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; color: #6c757d;">
-  🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos sólidos em lógica de programação e venho desenvolvendo projetos utilizando tecnologias como <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>Postgresql</strong>, <strong>React</strong> e <strong>Java</strong>, .
+  🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos sólidos em lógica de programação e venho desenvolvendo projetos utilizando tecnologias como <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>Postgresql</strong>, <strong>React</strong>, <strong>Java</strong> e <strong>Spring</strong> .
 </p>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; color: #6c757d;">
@@ -62,12 +62,6 @@
 
 </div>
 
-<p align="center">Quantidade de visitantes </p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg"> 
-</p>
-
 <div align="center">
   <a href="https://github.com/Alexanderu9">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,27 +84,24 @@
 
 ## ⚒️ Stack:
 **Frontend:** React | JavaScript | HTML | CSS  
-**Backend:** Node.js | Express | Java  
-**Banco de Dados:** MongoDB  
-**Outros:** TypeScript | GitHub | VSCode
+**Backend:** Node.js | Express | Java | Spring
+**Banco de Dados:** MongoDB | Postgresql
+**Outros:** TypeScript | GitHub | VSCode | IntelliJ
 
 ---
 
 ## 🎨 Design & Estilo:
 CSS puro | Boas práticas de acessibilidade e responsividade
 
----
-
-## 🔗 Projetos em destaque:
-
-### [🔗 Jogo da Forca Web](https://github.com/Alexanderu9/Jogo-registro-e-login/tree/main/public)
-> Aplicação criada como projeto final da disciplina. Utilizei **HTML**, **CSS**, **JavaScript** e **TypeScript**
 
 ---
 
 ## 📈 Em aprendizado:
 - Clean Architecture no Front-end
 - React
+- Java
+- Spring
+- Postgresql
 
 ---
 
