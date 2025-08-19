@@ -15,7 +15,7 @@
 <h2 align="center" style="font-family: 'Roboto', sans-serif; color: #0d1117;">Desenvolvedor Web | Entusiasta em TI | Curioso por natureza 💡</h2>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; color: #6c757d;">
-  🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos sólidos em lógica de programação e venho desenvolvendo projetos utilizando tecnologias como <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong> e <strong>React</strong>.
+  🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho conhecimentos sólidos em lógica de programação e venho desenvolvendo projetos utilizando tecnologias como <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, <strong>Postgresql</strong>, <strong>React</strong> e <strong>Java</strong>, .
 </p>
 
 <p align="center" style="font-family: 'Roboto', sans-serif; color: #6c757d;">
